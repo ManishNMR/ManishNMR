@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm N Manishramar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-nmr&label=Profile%20views&color=0e75b6&style=flat" alt="manish-nmr" /> </p>
 
+<span>Visits: </span>    
+
+![Visitor Count](https://profile-counter.glitch.me/ManishNMR/count.svg)
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ManishNMR&show_icons=true&theme=gotham" alt="ManishNMR" />
