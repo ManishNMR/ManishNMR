@@ -38,9 +38,9 @@ Here are some ideas to get you started:
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishNMR&show_icons=true&locale=en&layout=compact" alt="ManishNMR" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishNMR&show_icons=true&locale=en" alt="ManishNMR" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishNMR&show_icons=true&locale=en&theme" alt="ManishNMR" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishNMR&" alt="ManishNMR" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishNMR&theme" alt="ManishNMR" /></p>
 
 <h3 align="left">Achievements:</h3>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManishNMR" alt="ManishNMR" /></a> </p>
