@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishNMR&theme=gotham" alt="ManishNMR" /></p>
 
 <h3 align="left">Achievements:</h3>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManishNMR" alt="ManishNMR" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManishNMR&theme=onedark" alt="ManishNMR" /></a> </p>
